@@ -53,7 +53,7 @@ Run:
 ## Technologies Used
 
 - C++
-- Structures (struct)
+- Structures (`struct`)
 - Arrays
 - Loops
 - Conditional statements
